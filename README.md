@@ -1,5 +1,5 @@
 # PLDGAN
-Official code for paper “PLDGAN: Portrait Line Drawing Generation with Prior Knowledge and Conditioning Target“ CGI2023 TVC
+Official code for paper [“PLDGAN: Portrait Line Drawing Generation with Prior Knowledge and Conditioning Target“](https://link.springer.com/article/10.1007/s00371-023-02956-1) CGI2023 TVC
 
 ## Installation
 
